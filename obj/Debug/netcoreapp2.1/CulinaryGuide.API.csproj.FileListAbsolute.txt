@@ -1,0 +1,14 @@
+C:\Users\Tania\.vscode\CulinaryGuideApp\CulinaryGuide.API\bin\Debug\netcoreapp2.1\CulinaryGuide.API.deps.json
+C:\Users\Tania\.vscode\CulinaryGuideApp\CulinaryGuide.API\bin\Debug\netcoreapp2.1\CulinaryGuide.API.runtimeconfig.json
+C:\Users\Tania\.vscode\CulinaryGuideApp\CulinaryGuide.API\bin\Debug\netcoreapp2.1\CulinaryGuide.API.runtimeconfig.dev.json
+C:\Users\Tania\.vscode\CulinaryGuideApp\CulinaryGuide.API\bin\Debug\netcoreapp2.1\CulinaryGuide.API.dll
+C:\Users\Tania\.vscode\CulinaryGuideApp\CulinaryGuide.API\bin\Debug\netcoreapp2.1\CulinaryGuide.API.pdb
+C:\Users\Tania\.vscode\CulinaryGuideApp\CulinaryGuide.API\obj\Debug\netcoreapp2.1\CulinaryGuide.API.csprojAssemblyReference.cache
+C:\Users\Tania\.vscode\CulinaryGuideApp\CulinaryGuide.API\obj\Debug\netcoreapp2.1\CulinaryGuide.API.csproj.CoreCompileInputs.cache
+C:\Users\Tania\.vscode\CulinaryGuideApp\CulinaryGuide.API\obj\Debug\netcoreapp2.1\CulinaryGuide.API.RazorAssemblyInfo.cache
+C:\Users\Tania\.vscode\CulinaryGuideApp\CulinaryGuide.API\obj\Debug\netcoreapp2.1\CulinaryGuide.API.RazorAssemblyInfo.cs
+C:\Users\Tania\.vscode\CulinaryGuideApp\CulinaryGuide.API\obj\Debug\netcoreapp2.1\CulinaryGuide.API.AssemblyInfoInputs.cache
+C:\Users\Tania\.vscode\CulinaryGuideApp\CulinaryGuide.API\obj\Debug\netcoreapp2.1\CulinaryGuide.API.AssemblyInfo.cs
+C:\Users\Tania\.vscode\CulinaryGuideApp\CulinaryGuide.API\obj\Debug\netcoreapp2.1\CulinaryGuide.API.RazorTargetAssemblyInfo.cache
+C:\Users\Tania\.vscode\CulinaryGuideApp\CulinaryGuide.API\obj\Debug\netcoreapp2.1\CulinaryGuide.API.dll
+C:\Users\Tania\.vscode\CulinaryGuideApp\CulinaryGuide.API\obj\Debug\netcoreapp2.1\CulinaryGuide.API.pdb
